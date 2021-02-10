@@ -6,6 +6,9 @@
     "start": "node index.js",
     "dev": "nodemon index.js"
   },
+  "engines": {
+    "node": "14.15.4"
+  },
   "author": "Nikhil A <n9205205386@gmail.com>",
   "license": "MIT",
   "dependencies": {
